@@ -1,0 +1,20 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+/target/
+/build/
+.idea/
+*.iml
+*.log
+
+# SQL / DB
+*.mdf
+*.ldf
+*.bak
+*.sqlproj.user
+
+# OS
+.DS_Store
+Thumbs.db
